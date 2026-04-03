@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
+  <!-- 首页 -->
   <url>
     <loc>https://umoneyindia.cc</loc>
     <lastmod>2026-04-03</lastmod>
     <priority>1.0</priority>
+  </url>
+  <!-- 隐私政策 - 提高信任分 -->
+  <url>
+    <loc>https://umoneyindia.ccprivacy.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- 服务条款 - 提高信任分 -->
+  <url>
+    <loc>https://umoneyindia.ccterms.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
